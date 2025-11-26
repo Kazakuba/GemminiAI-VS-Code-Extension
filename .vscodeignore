@@ -1,0 +1,26 @@
+# Build files
+out/
+dist/
+*.vsix
+
+# Development
+.vscode-test/
+tsconfig.json
+.eslintrc.json
+
+# Source files (compiled to out/)
+src/**/*.ts
+
+# Git files
+.gitignore
+.gitattributes
+
+# IDE
+.vscode/**
+
+# Dependencies (will be installed via npm)
+node_modules/
+
+# Misc
+.DS_Store
+*.log
