@@ -27,7 +27,7 @@ My take on Cursor/Windsurf/Antigravity, but better because it's an extension lev
 ### From Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vscode-gemmini-ai.git
+git clone https://github.com/Kazakuba/GemminiAI-VS-Code-Extension.git
 cd vscode-gemmini-ai
 
 # Install dependencies
